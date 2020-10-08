@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+bin
+lib
+settings.json
+.vscode
+.Python
+python_course.code-workspace
+pyvenv.cfg
+requirements.txt
