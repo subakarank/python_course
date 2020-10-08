@@ -7,3 +7,4 @@ settings.json
 python_course.code-workspace
 pyvenv.cfg
 requirements.txt
+.DS_Store
